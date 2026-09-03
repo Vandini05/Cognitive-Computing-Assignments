@@ -1,2 +1,2 @@
 # Cognitive-Computing-Assignments
-This repo contains all the lab assignments that i push after completion.
+This repository contains laboratory assignments for the Cognitive Computing [UCS420] course.
